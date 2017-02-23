@@ -1,0 +1,42 @@
+body{
+    width: 60%;
+    margin-left: 20%;
+    margin-right:20%;
+    border: solid 20px #BAC0C3;
+    padding: 20px;
+}
+
+h3{
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 20px;
+    font-family: Montserrat;
+    color: #0788C4;
+}
+h1{
+    margin-left: 15px;
+    font-size: 36px;
+    font-family: Oswald;
+}
+
+hr.style1{
+    margin-top: 10px;
+	border-top: 1px solid #8c8b8b;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+p{
+    margin-left: 15px;
+    margin-right: 15px;
+    font-family: Merriweather;
+    font-size: 15px;
+    font-weight: 400;
+}
+#pop{
+    margin-bottom: 15px;
+}
+
+.p1{
+    border-left: solid 5px #BAC0C3;
+}
