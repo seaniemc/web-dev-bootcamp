@@ -1,0 +1,19 @@
+ h1{
+            color: rgba(240, 100, 100, .6);
+            /*border-color: purple;
+            border-width: 5px;
+            border-style: solid ;*/
+            border: 5px solid purple;
+        }
+li{
+    color: orange;
+}
+h4{
+    background: rgb(255, 100, 50);
+}
+
+body {
+    background: url(http://edgewaysdesign.co.uk/wordpress/wp-content/uploads/2015/04/resources-free-vector-woodgrain-pattern-preview.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

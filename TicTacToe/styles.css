@@ -1,0 +1,56 @@
+#header{
+    text-align: center;
+    font-size: 50;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-top: 50;
+}
+
+ table.center {
+    width:50%; 
+    margin-left:25%; 
+    margin-right:25%;
+  }
+td{
+    width: 100px;
+    height: 100px;
+}
+#tr1{
+    border: solid black;
+}
+#tr2{
+    border: solid black;
+}
+
+#td1{
+    border-bottom: solid black 2px;
+   
+}
+#td2{
+    border-bottom: solid black 2px;
+    border-right: solid black 2px;
+     border-left: solid black 2px;
+}
+#td3{
+    border-bottom: solid black 2px;
+   
+}
+
+#td4{
+    border-bottom: solid black 2px;
+}
+#td5{
+    border-bottom: solid black 2px;
+    border-right: solid black 2px;
+    border-left: solid black 2px;
+}
+#td6{
+    border-bottom: solid black 2px; 
+}
+
+#td8{
+   
+    border-right: solid black 2px;
+    border-left: solid black 2px;
+}
+
